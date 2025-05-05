@@ -32,6 +32,8 @@ ros2 run text_publisher publisher
 Terminal 2
 ros2 run text_subscriber subscrib
 
+```bash
+
 ✅ Example Outcomes
 ![WUEPYOeK](https://github.com/user-attachments/assets/f6161966-e5fb-4b45-8fc5-e480a7c021b7)
 ![d3wYSdsD](https://github.com/user-attachments/assets/882cb676-7793-4295-bdad-c87cdc0c7fbe)
