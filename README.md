@@ -1,6 +1,6 @@
 ## Simple ROS 2 Humble Publisher Subscriber Application
 
-A simple ROS 2 Humble Publisher Subscriber application with custom massage: a C++ publisher node reads user input, stamps it with the current ROS time, and publishes it on a topic. A Python subscriber node receives each message, logs the text and timestamps, and computes the end‑to‑end delivery delay. In this example C++ and Python client libraries are in separate packages.
+A simple ROS 2 Humble Publisher Subscriber application with custom massage: a C++ publisher node reads user input from the terminal, stamps it with the current ROS time, and publishes it on a topic. A Python subscriber node receives each message, logs the text and timestamps, and computes the end‑to‑end delivery delay. In this example C++ and Python client libraries are in separate packages.
 
 ---
 
