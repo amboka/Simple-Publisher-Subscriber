@@ -19,7 +19,7 @@ ros2_ws/
 git clone https://github.com/amboka/Simple-Publisher-Subscriber.git
 ```bash
 
-## Build & Run Instructions
+### Build & Run Instructions
 cd ~/ros2_ws
 source /opt/ros/humble/setup.bash
 colcon build
@@ -34,8 +34,7 @@ Terminal 2
 ros2 run text_subscriber subscrib
 
 
-
-✅ Example Outcomes
+### ✅ Example Outcomes
 ![WUEPYOeK](https://github.com/user-attachments/assets/f6161966-e5fb-4b45-8fc5-e480a7c021b7)
 ![d3wYSdsD](https://github.com/user-attachments/assets/882cb676-7793-4295-bdad-c87cdc0c7fbe)
 
