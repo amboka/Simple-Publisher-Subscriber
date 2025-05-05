@@ -6,33 +6,42 @@ A simple ROS 2 Humble Publisher Subscriber application with custom massage: a C+
 
 ### ROS 2 Workspace Layout
 
+```text
 ros2_ws/
 └── src/
-├── custom_msg_pkg/ # Custom message definition
-├── text_publisher/ # C++ publisher node
-└── text_subscriber/ # Python subscriber node
-
-
+    ├── custom_msg_pkg/      # Custom message definition
+    ├── text_publisher/      # C++ publisher node
+    └── text_subscriber/     # Python subscriber node
+```
 ### Clone the Repository
 
-```bash
+```sh
 git clone https://github.com/amboka/Simple-Publisher-Subscriber.git
-```bash
+```
+---
 
 ### Build & Run Instructions
+
+```sh
 cd ~/ros2_ws
 source /opt/ros/humble/setup.bash
 colcon build
 source install/setup.bash
-
+```
 Then open two terminals:
 
 Terminal 1
+
+```sh
 ros2 run text_publisher publisher
 
+```
 Terminal 2
+
+```sh
 ros2 run text_subscriber subscrib
 
+```
 
 ### ✅ Example Outcomes
 ![WUEPYOeK](https://github.com/user-attachments/assets/f6161966-e5fb-4b45-8fc5-e480a7c021b7)
