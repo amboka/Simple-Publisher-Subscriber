@@ -1,0 +1,38 @@
+[0.284s] Invoking command in '/home/giorgi/ros2_ws/src/text_subscriber': CMAKE_PREFIX_PATH=/home/giorgi/ros2_ws/install/custom_msg_pkg:/home/giorgi/ros2_ws/install/text_publisher:/home/giorgi/ros2_ws/install/tutorial_interfaces:/home/giorgi/ros2_ws/install/turtlesim:/home/giorgi/ros2_ws/install/my_package:/home/giorgi/ros2_ws/install/examples_rclcpp_wait_set:/home/giorgi/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_timer:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_service:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_composition:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_client:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclcpp_cbg_executor:/home/giorgi/ros2_ws/install/examples_rclcpp_async_client:/home/giorgi/ros2_ws/install/cpp_pubsub LD_LIBRARY_PATH=/home/giorgi/ros2_ws/install/custom_msg_pkg/lib:/home/giorgi/ros2_ws/install/tutorial_interfaces/lib:/home/giorgi/ros2_ws/install/turtlesim/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_wait_set/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_composition/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/giorgi/ros2_ws/build/text_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/text_subscriber build --build-base /home/giorgi/ros2_ws/build/text_subscriber/build install --record /home/giorgi/ros2_ws/build/text_subscriber/install.log --single-version-externally-managed install_data
+[0.397s] running egg_info
+[0.397s] creating ../../build/text_subscriber/text_subscriber.egg-info
+[0.397s] writing ../../build/text_subscriber/text_subscriber.egg-info/PKG-INFO
+[0.397s] writing dependency_links to ../../build/text_subscriber/text_subscriber.egg-info/dependency_links.txt
+[0.397s] writing entry points to ../../build/text_subscriber/text_subscriber.egg-info/entry_points.txt
+[0.397s] writing requirements to ../../build/text_subscriber/text_subscriber.egg-info/requires.txt
+[0.397s] writing top-level names to ../../build/text_subscriber/text_subscriber.egg-info/top_level.txt
+[0.398s] writing manifest file '../../build/text_subscriber/text_subscriber.egg-info/SOURCES.txt'
+[0.398s] reading manifest file '../../build/text_subscriber/text_subscriber.egg-info/SOURCES.txt'
+[0.398s] adding license file 'LICENSE'
+[0.399s] writing manifest file '../../build/text_subscriber/text_subscriber.egg-info/SOURCES.txt'
+[0.399s] running build
+[0.399s] running build_py
+[0.399s] creating /home/giorgi/ros2_ws/build/text_subscriber/build
+[0.399s] creating /home/giorgi/ros2_ws/build/text_subscriber/build/lib
+[0.399s] creating /home/giorgi/ros2_ws/build/text_subscriber/build/lib/text_subscriber
+[0.399s] copying text_subscriber/subscriber.py -> /home/giorgi/ros2_ws/build/text_subscriber/build/lib/text_subscriber
+[0.399s] copying text_subscriber/__init__.py -> /home/giorgi/ros2_ws/build/text_subscriber/build/lib/text_subscriber
+[0.399s] running install
+[0.399s] running install_lib
+[0.399s] creating /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber
+[0.399s] copying /home/giorgi/ros2_ws/build/text_subscriber/build/lib/text_subscriber/subscriber.py -> /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber
+[0.399s] copying /home/giorgi/ros2_ws/build/text_subscriber/build/lib/text_subscriber/__init__.py -> /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber
+[0.400s] byte-compiling /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber/subscriber.py to subscriber.cpython-310.pyc
+[0.400s] byte-compiling /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber/__init__.py to __init__.cpython-310.pyc
+[0.400s] running install_data
+[0.400s] creating /home/giorgi/ros2_ws/install/text_subscriber/share/ament_index
+[0.400s] creating /home/giorgi/ros2_ws/install/text_subscriber/share/ament_index/resource_index
+[0.400s] creating /home/giorgi/ros2_ws/install/text_subscriber/share/ament_index/resource_index/packages
+[0.400s] copying resource/text_subscriber -> /home/giorgi/ros2_ws/install/text_subscriber/share/ament_index/resource_index/packages
+[0.400s] copying package.xml -> /home/giorgi/ros2_ws/install/text_subscriber/share/text_subscriber
+[0.400s] running install_egg_info
+[0.401s] Copying ../../build/text_subscriber/text_subscriber.egg-info to /home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages/text_subscriber-0.0.0-py3.10.egg-info
+[0.402s] running install_scripts
+[0.412s] Installing subscriber script to /home/giorgi/ros2_ws/install/text_subscriber/lib/text_subscriber
+[0.412s] writing list of installed files to '/home/giorgi/ros2_ws/build/text_subscriber/install.log'
+[0.423s] Invoked command in '/home/giorgi/ros2_ws/src/text_subscriber' returned '0': CMAKE_PREFIX_PATH=/home/giorgi/ros2_ws/install/custom_msg_pkg:/home/giorgi/ros2_ws/install/text_publisher:/home/giorgi/ros2_ws/install/tutorial_interfaces:/home/giorgi/ros2_ws/install/turtlesim:/home/giorgi/ros2_ws/install/my_package:/home/giorgi/ros2_ws/install/examples_rclcpp_wait_set:/home/giorgi/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_timer:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_service:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_composition:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_client:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclcpp_cbg_executor:/home/giorgi/ros2_ws/install/examples_rclcpp_async_client:/home/giorgi/ros2_ws/install/cpp_pubsub LD_LIBRARY_PATH=/home/giorgi/ros2_ws/install/custom_msg_pkg/lib:/home/giorgi/ros2_ws/install/tutorial_interfaces/lib:/home/giorgi/ros2_ws/install/turtlesim/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_wait_set/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib:/home/giorgi/ros2_ws/install/examples_rclcpp_minimal_composition/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/giorgi/ros2_ws/build/text_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giorgi/ros2_ws/install/text_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/text_subscriber build --build-base /home/giorgi/ros2_ws/build/text_subscriber/build install --record /home/giorgi/ros2_ws/build/text_subscriber/install.log --single-version-externally-managed install_data

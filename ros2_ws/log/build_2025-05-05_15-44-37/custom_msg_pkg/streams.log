@@ -1,0 +1,230 @@
+[0.006s] Invoking command in '/home/giorgi/ros2_ws/build/custom_msg_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/giorgi/ros2_ws/src/custom_msg_pkg -DCMAKE_INSTALL_PREFIX=/home/giorgi/ros2_ws/install/custom_msg_pkg
+[0.059s] -- The C compiler identification is GNU 11.4.0
+[0.090s] -- The CXX compiler identification is GNU 11.4.0
+[0.094s] -- Detecting C compiler ABI info
+[0.135s] -- Detecting C compiler ABI info - done
+[0.138s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.138s] -- Detecting C compile features
+[0.139s] -- Detecting C compile features - done
+[0.140s] -- Detecting CXX compiler ABI info
+[0.187s] -- Detecting CXX compiler ABI info - done
+[0.191s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.191s] -- Detecting CXX compile features
+[0.191s] -- Detecting CXX compile features - done
+[0.192s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.275s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.320s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.337s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.340s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.344s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.351s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.359s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.367s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.497s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.659s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.722s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.735s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.735s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.751s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.751s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.751s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.751s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.762s] -- Found PythonExtra: .so  
+[0.788s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.796s] -- Added test 'lint_cmake' to check CMake code style
+[0.797s] -- Added test 'xmllint' to check XML markup files
+[0.799s] -- Configuring done
+[0.815s] -- Generating done
+[0.821s] -- Build files have been written to: /home/giorgi/ros2_ws/build/custom_msg_pkg
+[0.825s] Invoked command in '/home/giorgi/ros2_ws/build/custom_msg_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/giorgi/ros2_ws/src/custom_msg_pkg -DCMAKE_INSTALL_PREFIX=/home/giorgi/ros2_ws/install/custom_msg_pkg
+[0.827s] Invoking command in '/home/giorgi/ros2_ws/build/custom_msg_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/giorgi/ros2_ws/build/custom_msg_pkg -- -j32 -l32
+[0.851s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.857s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[0.861s] [  6%] Built target ament_cmake_python_copy_custom_msg_pkg
+[0.978s] running egg_info
+[0.978s] creating custom_msg_pkg.egg-info
+[0.978s] writing custom_msg_pkg.egg-info/PKG-INFO
+[0.978s] writing dependency_links to custom_msg_pkg.egg-info/dependency_links.txt
+[0.979s] writing top-level names to custom_msg_pkg.egg-info/top_level.txt
+[0.979s] writing manifest file 'custom_msg_pkg.egg-info/SOURCES.txt'
+[0.979s] reading manifest file 'custom_msg_pkg.egg-info/SOURCES.txt'
+[0.980s] writing manifest file 'custom_msg_pkg.egg-info/SOURCES.txt'
+[0.985s] [  6%] Built target custom_msg_pkg__cpp
+[0.988s] [  9%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_generator_c.dir/rosidl_generator_c/custom_msg_pkg/msg/detail/text_stamped__functions.c.o[0m
+[0.992s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[0.992s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[0.992s] [ 19%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[0.994s] [ 19%] Built target ament_cmake_python_build_custom_msg_pkg_egg
+[1.017s] [ 22%] [32m[1mLinking C shared library libcustom_msg_pkg__rosidl_generator_c.so[0m
+[1.041s] [ 22%] Built target custom_msg_pkg__rosidl_generator_c
+[1.047s] [ 29%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.047s] [ 29%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.049s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.112s] [ 35%] [32mBuilding CXX object CMakeFiles/custom_msg_pkg__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_msg_pkg/msg/text_stamped__type_support.cpp.o[0m
+[1.116s] [ 38%] [32mBuilding CXX object CMakeFiles/custom_msg_pkg__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_msg_pkg/msg/detail/text_stamped__type_support.cpp.o[0m
+[1.118s] [ 41%] [32mBuilding CXX object CMakeFiles/custom_msg_pkg__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_msg_pkg/msg/detail/dds_fastrtps/text_stamped__type_support.cpp.o[0m
+[1.169s] [ 45%] [32mBuilding CXX object CMakeFiles/custom_msg_pkg__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_msg_pkg/msg/text_stamped__type_support.cpp.o[0m
+[1.179s] [ 48%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_msg_pkg/msg/detail/text_stamped__type_support.c.o[0m
+[1.181s] [ 51%] [32mBuilding CXX object CMakeFiles/custom_msg_pkg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_msg_pkg/msg/detail/text_stamped__type_support_c.cpp.o[0m
+[1.188s] [ 54%] [32m[1mLinking CXX shared library libcustom_msg_pkg__rosidl_typesupport_c.so[0m
+[1.201s] [ 58%] [32m[1mLinking C shared library libcustom_msg_pkg__rosidl_typesupport_introspection_c.so[0m
+[1.215s] [ 58%] Built target custom_msg_pkg__rosidl_typesupport_c
+[1.221s] [ 58%] Built target custom_msg_pkg__rosidl_typesupport_introspection_c
+[1.255s] [ 61%] [32m[1mLinking CXX shared library libcustom_msg_pkg__rosidl_typesupport_cpp.so[0m
+[1.281s] [ 61%] Built target custom_msg_pkg__rosidl_typesupport_cpp
+[1.309s] [ 64%] [32m[1mLinking CXX shared library libcustom_msg_pkg__rosidl_typesupport_introspection_cpp.so[0m
+[1.316s] [ 67%] [32m[1mLinking CXX shared library libcustom_msg_pkg__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.347s] [ 67%] Built target custom_msg_pkg__rosidl_typesupport_introspection_cpp
+[1.357s] [ 70%] [32m[1mLinking CXX shared library libcustom_msg_pkg__rosidl_typesupport_fastrtps_c.so[0m
+[1.360s] [ 70%] Built target custom_msg_pkg__rosidl_typesupport_fastrtps_cpp
+[1.396s] [ 70%] Built target custom_msg_pkg__rosidl_typesupport_fastrtps_c
+[1.408s] [ 70%] Built target custom_msg_pkg
+[1.420s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.547s] [ 74%] Built target custom_msg_pkg__py
+[1.559s] [ 77%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_generator_py.dir/rosidl_generator_py/custom_msg_pkg/msg/_text_stamped_s.c.o[0m
+[1.608s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/custom_msg_pkg/libcustom_msg_pkg__rosidl_generator_py.so[0m
+[1.631s] [ 80%] Built target custom_msg_pkg__rosidl_generator_py
+[1.643s] [ 83%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[1.643s] [ 87%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[1.644s] [ 90%] [32mBuilding C object CMakeFiles/custom_msg_pkg__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_c.c.o[0m
+[1.697s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.697s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.699s] [100%] [32m[1mLinking C shared library rosidl_generator_py/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.719s] [100%] Built target custom_msg_pkg__rosidl_typesupport_c__pyext
+[1.720s] [100%] Built target custom_msg_pkg__rosidl_typesupport_fastrtps_c__pyext
+[1.720s] [100%] Built target custom_msg_pkg__rosidl_typesupport_introspection_c__pyext
+[1.728s] Invoked command in '/home/giorgi/ros2_ws/build/custom_msg_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/giorgi/ros2_ws/build/custom_msg_pkg -- -j32 -l32
+[1.734s] Invoking command in '/home/giorgi/ros2_ws/build/custom_msg_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/giorgi/ros2_ws/build/custom_msg_pkg
+[1.738s] -- Install configuration: ""
+[1.738s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/ament_index/resource_index/rosidl_interfaces/custom_msg_pkg
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/text_stamped.h
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/rosidl_generator_c__visibility_control.h
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__struct.h
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__type_support.h
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__functions.h
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__functions.c
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/library_path.sh
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/library_path.dsv
+[1.739s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_generator_c.so
+[1.740s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_generator_c.so" to ""
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.740s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__rosidl_typesupport_fastrtps_c.h
+[1.740s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.740s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_fastrtps_c.so
+[1.740s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_fastrtps_c.so" to ""
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.740s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.740s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__type_support.hpp
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__struct.hpp
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__builder.hpp
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__traits.hpp
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/text_stamped.hpp
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/dds_fastrtps
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_fastrtps_cpp.so
+[1.741s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_fastrtps_cpp.so" to ""
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.741s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.741s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__type_support.c
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__rosidl_typesupport_introspection_c.h
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_introspection_c.so
+[1.742s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_introspection_c.so" to ""
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_c.so
+[1.742s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_c.so" to ""
+[1.742s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg
+[1.742s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg
+[1.742s] -- Up-to-date: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__rosidl_typesupport_introspection_cpp.hpp
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/include/custom_msg_pkg/custom_msg_pkg/msg/detail/text_stamped__type_support.cpp
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_introspection_cpp.so
+[1.742s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_introspection_cpp.so" to ""
+[1.742s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_cpp.so
+[1.743s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_typesupport_cpp.so" to ""
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/pythonpath.sh
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/pythonpath.dsv
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg-0.0.0-py3.10.egg-info
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg-0.0.0-py3.10.egg-info/top_level.txt
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg/_text_stamped.py
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg/_text_stamped_s.c
+[1.743s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg/__init__.py
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_c.c
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/__init__.py
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/libcustom_msg_pkg__rosidl_generator_py.so
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.744s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/_custom_msg_pkg_s.ep.rosidl_typesupport_introspection_c.c
+[1.763s] Listing '/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg'...
+[1.763s] Compiling '/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/__init__.py'...
+[1.763s] Listing '/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg'...
+[1.763s] Compiling '/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg/__init__.py'...
+[1.763s] Compiling '/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/msg/_text_stamped.py'...
+[1.766s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.766s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.766s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.766s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.766s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.767s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/local/lib/python3.10/dist-packages/custom_msg_pkg/custom_msg_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_generator_py.so
+[1.767s] -- Set runtime path of "/home/giorgi/ros2_ws/install/custom_msg_pkg/lib/libcustom_msg_pkg__rosidl_generator_py.so" to ""
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/msg/TextStamped.idl
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/msg/TextStamped.msg
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/ament_index/resource_index/package_run_dependencies/custom_msg_pkg
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/ament_index/resource_index/parent_prefix_path/custom_msg_pkg
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/ament_prefix_path.sh
+[1.767s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/ament_prefix_path.dsv
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/path.sh
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/environment/path.dsv
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/local_setup.bash
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/local_setup.sh
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/local_setup.zsh
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/local_setup.dsv
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/package.dsv
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/ament_index/resource_index/packages/custom_msg_pkg
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_generator_cExport.cmake
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_generator_cExport-noconfig.cmake
+[1.768s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_typesupport_fastrtps_cExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_generator_cppExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_introspection_cExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_cExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_cExport-noconfig.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_introspection_cppExport.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.769s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_cppExport.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkg__rosidl_typesupport_cppExport-noconfig.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_generator_pyExport.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/export_custom_msg_pkg__rosidl_generator_pyExport-noconfig.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/rosidl_cmake-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/ament_cmake_export_libraries-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/ament_cmake_export_targets-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkgConfig.cmake
+[1.770s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/cmake/custom_msg_pkgConfig-version.cmake
+[1.771s] -- Installing: /home/giorgi/ros2_ws/install/custom_msg_pkg/share/custom_msg_pkg/package.xml
+[1.772s] Invoked command in '/home/giorgi/ros2_ws/build/custom_msg_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/giorgi/ros2_ws/install/text_subscriber:/home/giorgi/ros2_ws/install/py_pubsub:/home/giorgi/ros2_ws/install/my_package2:/home/giorgi/ros2_ws/install/launch_testing_examples:/home/giorgi/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_service:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_publisher:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_client:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_server:/home/giorgi/ros2_ws/install/examples_rclpy_minimal_action_client:/home/giorgi/ros2_ws/install/examples_rclpy_guard_conditions:/home/giorgi/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/giorgi/ros2_ws/build/custom_msg_pkg

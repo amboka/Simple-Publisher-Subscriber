@@ -1,0 +1,16 @@
+/home/giorgi/ros2_ws/install/text_publisher/lib/text_publisher/publisher
+/home/giorgi/ros2_ws/install/text_publisher/share/ament_index/resource_index/package_run_dependencies/text_publisher
+/home/giorgi/ros2_ws/install/text_publisher/share/ament_index/resource_index/parent_prefix_path/text_publisher
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/environment/ament_prefix_path.sh
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/environment/ament_prefix_path.dsv
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/environment/path.sh
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/environment/path.dsv
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/local_setup.bash
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/local_setup.sh
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/local_setup.zsh
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/local_setup.dsv
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/package.dsv
+/home/giorgi/ros2_ws/install/text_publisher/share/ament_index/resource_index/packages/text_publisher
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/cmake/text_publisherConfig.cmake
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/cmake/text_publisherConfig-version.cmake
+/home/giorgi/ros2_ws/install/text_publisher/share/text_publisher/package.xml

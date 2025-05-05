@@ -1,0 +1,10 @@
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/uninstall.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/text_publisher_uninstall.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/publisher.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/test.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/edit_cache.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/rebuild_cache.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/list_install_components.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/install.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/install/local.dir
+/home/giorgi/ros2_ws/build/text_publisher/CMakeFiles/install/strip.dir

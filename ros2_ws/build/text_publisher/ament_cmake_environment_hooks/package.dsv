@@ -1,0 +1,4 @@
+source;share/text_publisher/local_setup.bash
+source;share/text_publisher/local_setup.dsv
+source;share/text_publisher/local_setup.sh
+source;share/text_publisher/local_setup.zsh
