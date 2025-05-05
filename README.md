@@ -17,6 +17,7 @@ ros2_ws/
 
 ```bash
 git clone https://github.com/amboka/Simple-Publisher-Subscriber.git
+```bash
 
 ## Build & Run Instructions
 cd ~/ros2_ws
@@ -32,7 +33,7 @@ ros2 run text_publisher publisher
 Terminal 2
 ros2 run text_subscriber subscrib
 
-```bash
+
 
 ✅ Example Outcomes
 ![WUEPYOeK](https://github.com/user-attachments/assets/f6161966-e5fb-4b45-8fc5-e480a7c021b7)
